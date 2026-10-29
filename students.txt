@@ -1,0 +1,27 @@
+TT | SBD    | Họ và tên             | Tên trường                 | Tên môn | Bài 1 | Bài 2 | Bài 3 |  Tổng
+---+--------+-----------------------+----------------------------+---------+-------+-------+-------+------
+65 | 010080 | Nguyễn Minh Quân      | THPT chuyên Thoại Ngọc Hầu | Hóa học | 15.75 |    17 |     5 | 37.75
+66 | 010088 | Lý Kim Trúc           | THPT chuyên Thoại Ngọc Hầu | Hóa học |    12 |    13 |     4 |    29
+67 | 010081 | Trịnh Quốc Tân        | THPT chuyên Thoại Ngọc Hầu | Hóa học |  11.5 |    12 |     5 |  28.5
+68 | 010086 | Trần Ngọc Trâm        | THPT chuyên Thoại Ngọc Hầu | Hóa học |   8.5 |    12 |     5 |  25.5
+69 | 010083 | Huỳnh Hồ Thanh Thảo   | THPT chuyên Thoại Ngọc Hầu | Hóa học |  8.25 |  11.5 |     5 | 24.75
+70 | 010082 | Lê Nhật Thành         | THPT chuyên Thoại Ngọc Hầu | Hóa học |     9 |  8.25 |     5 | 22.25
+71 | 010078 | Lâm Phạm Trọng Phúc   | THPT Bình Mỹ               | Hóa học |  7.25 |    11 |   3.5 | 21.75
+72 | 010077 | Đoàn Hoàng Nguyên     | THPT Trần Văn Thành        | Hóa học |     9 |   7.5 |   3.5 |    20
+73 | 010066 | Nguyễn Hoà Giang      | THPT chuyên Thoại Ngọc Hầu | Hóa học |  7.25 |  8.75 |   3.5 |  19.5
+74 | 010068 | Nguyễn Anh Huy        | THPT chuyên Thoại Ngọc Hầu | Hóa học |     5 | 10.75 |   3.5 | 19.25
+75 | 010069 | Quách Lê Gia Huy      | THPT chuyên Thoại Ngọc Hầu | Hóa học |  5.75 |     7 |     5 | 17.75
+76 | 010070 | Huỳnh Vĩnh Khang      | THPT Tân Châu              | Hóa học |  7.25 |   3.5 |     4 | 14.75
+77 | 010085 | Tô Thị Ngọc Trâm      | THPT Nguyễn Hữu Cảnh       | Hóa học |  5.25 |     8 |   1.5 | 14.75
+78 | 010087 | Huỳnh Thị Thanh Trúc  | THPT chuyên Thủ Khoa Nghĩa | Hóa học |  8.75 |   4.5 |   1.5 | 14.75
+79 | 010067 | Trương Thị Ngọc Hân   | THPT Trần Văn Thành        | Hóa học |  3.75 |  7.25 |   3.5 |  14.5
+80 | 010073 | Trần Thế Minh         | THPT chuyên Thủ Khoa Nghĩa | Hóa học |    10 |     1 |   3.5 |  14.5
+81 | 010075 | Nguyễn Trọng Nghĩa    | THPT chuyên Thoại Ngọc Hầu | Hóa học |  3.75 |  9.25 |   1.5 |  14.5
+82 | 010065 | Lê Nguyễn Thùy An     | THCS - THPT Cô Tô          | Hóa học |  4.75 |     6 |   3.5 | 14.25
+83 | 010071 | Nguyễn Huỳnh Duy Khoa | THPT chuyên Thoại Ngọc Hầu | Hóa học |     7 |     3 |     3 |    13
+84 | 010084 | Phan Thị Cẩm Tiên     | THPT Nguyễn Quang Diêu     | Hóa học |  6.25 |  2.75 |   3.5 |  12.5
+85 | 010076 | Nguyễn Phúc Hồng Ngọc | THPT Chu Văn An            | Hóa học |  3.75 |     5 |   2.5 | 11.25
+86 | 010072 | Trần Quang Minh       | THPT Bình Thạnh Đông       | Hóa học |  2.25 |     4 |   3.5 |  9.75
+87 | 010074 | Lý Vi Nam             | THPT An Phú                | Hóa học |  4.75 |     1 |   0.5 |  6.25
+88 | 010079 | Phan Kim Phụng        | THPT Nguyễn Quang Diêu     | Hóa học |  3.75 |     0 |   2.5 |  6.25
+89 | 123456 | Phan Thanh Dũng       | HUS                        | Toán học |  9.00 |  9.50 |  8.50 | 27.00
