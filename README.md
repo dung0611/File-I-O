@@ -133,7 +133,7 @@ Luồng xử lý tổng quát:
 
 Ảnh dưới đây ghi lại lần chạy chọn chức năng `1`: chương trình đọc dữ liệu từ `students.txt` và trình bày các thí sinh thành bảng.
 
-![Chương trình đọc và hiển thị danh sách thí sinh](https://chatgpt.com/api/library/files/libfile_20bb9beca3388191b0e601c23bcd94ed/download)
+![Chương trình đọc và hiển thị danh sách thí sinh](images/read_students.png)
 
 ## 5. Cách đọc file
 
@@ -240,7 +240,7 @@ printf("Da ghi vao students.txt. Tong diem: %.2f\n", student.tong);
 
 Ảnh dưới đây ghi lại lần chọn chức năng `2`, nhập thông tin thí sinh mới, nhận thông báo tổng điểm và đọc lại file để kiểm tra bản ghi vừa thêm.
 
-![Chương trình nhập và ghi thêm bản ghi vào students.txt](https://chatgpt.com/api/library/files/libfile_4b5228e76c888191b2c7b204c8d7e604/download)
+![Chương trình nhập và ghi thêm bản ghi vào students.txt](images/write_student.png)
 
 ## 7. Sơ đồ luồng dữ liệu
 
